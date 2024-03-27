@@ -1,8 +1,8 @@
 # Active user metrics for all Jupyter services at JSC
 ## Jupyter-JSC
- - [last 1 day](https://github.com/FZJ-JSC/jupyter-jsc-metrics/blob/jupyter-jsc.fz-juelich.de/user_metrics_last_1_days.csv)
- - [last 7 days](https://github.com/FZJ-JSC/jupyter-jsc-metrics/blob/jupyter-jsc.fz-juelich.de/user_metrics_last_7_days.csv)
- - [last 30 days](https://github.com/FZJ-JSC/jupyter-jsc-metrics/blob/jupyter-jsc.fz-juelich.de/user_metrics_last_30_days.csv)
+ - [last 1 day](https://github.com/FZJ-JSC/jupyter-jsc-metrics/blob/jupyter.jsc.fz-juelich.de/user_metrics_last_1_days.csv)
+ - [last 7 days](https://github.com/FZJ-JSC/jupyter-jsc-metrics/blob/jupyter.jsc.fz-juelich.de/user_metrics_last_7_days.csv)
+ - [last 30 days](https://github.com/FZJ-JSC/jupyter-jsc-metrics/blob/jupyter.jsc.fz-juelich.de/user_metrics_last_30_days.csv)
 ## JUNIQ
  - [last 1 day](https://github.com/FZJ-JSC/jupyter-jsc-metrics/blob/juniq.fz-juelich.de/user_metrics_last_1_days.csv)
  - [last 7 days](https://github.com/FZJ-JSC/jupyter-jsc-metrics/blob/juniq.fz-juelich.de/user_metrics_last_7_days.csv)
